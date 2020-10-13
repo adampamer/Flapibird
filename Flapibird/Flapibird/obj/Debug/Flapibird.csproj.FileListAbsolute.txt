@@ -1,0 +1,15 @@
+D:\C# programok\Flapibird\Flapibird\bin\Debug\Flapibird.exe.config
+D:\C# programok\Flapibird\Flapibird\bin\Debug\Flapibird.exe
+D:\C# programok\Flapibird\Flapibird\bin\Debug\Flapibird.pdb
+D:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.csprojResolveAssemblyReference.cache
+D:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.Form1.resources
+D:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.Properties.Resources.resources
+D:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.csproj.GenerateResource.Cache
+D:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.exe
+D:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.pdb
+F:\C# programok\Flapibird\Flapibird\bin\Debug\Flapibird.exe.config
+F:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.exe
+F:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.pdb
+G:\C# programok\Flapibird\Flapibird\bin\Debug\Flapibird.exe.config
+G:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.exe
+G:\C# programok\Flapibird\Flapibird\obj\Debug\Flapibird.pdb
